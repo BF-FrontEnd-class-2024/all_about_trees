@@ -1,6 +1,9 @@
 # Name of project
 
-> A longer description
+All About Trees
+
+Exploring the essence and impact of trees in our ecosystem
+Trees, nature's breath, silently weave oxygen and shelter, embracing ecosystems with quiet grace.
 
 ## Table of contents
 
