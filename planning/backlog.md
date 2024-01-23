@@ -1,30 +1,33 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+A backlog is a prioritized list of tasks, or user stories that a team plans
+to work on in the future. The backlog serves as a dynamic and evolving document
+that helps the team organize and prioritize work items.
 
 ## Must-Haves
 
-> these are necessary for basic usability
+As a user, I want to see the title of the page
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- There is a clear title on the page
+  
+As a user, I want to see the logo of the website
 
-## Should-Haves
+- There is the logo of the website
 
-> these will complete the user experience, but are not necessary
+As a user, I need to see the links on the navigation bar, which helps me to reach
+other parts of the website.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- There are links that direct the user to different parts of the website.
 
-## Could-Haves
+As a user, I need to see the description of the page.
 
-> would be really cool ... if there's time
+- There is a clear description of the website.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+As a user,  I need to see links that direct me to your social media platforms.
+
+- There are links to the website's social media profiles for further engagement and
+updates
+
+As a user, I need to see the links on the page to access more information.
+
+- there are links on the page
