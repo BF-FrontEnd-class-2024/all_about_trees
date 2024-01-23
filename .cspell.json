@@ -17,7 +17,8 @@
     "wireframe",
     "Ahlam",
     "Emrah",
-    "Namrata"
+    "Namrata",
+    "keyframes"
   ],
   "ignorePaths": [
     "node_modules/**",
