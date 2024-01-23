@@ -1,17 +1,11 @@
 # Design
 
-## Project's design overview
-
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+We created a basic page about tress where a user can learn the simplest things.
 
 ---
 
-## Wireframe(s)
+Below is our design
 
-> Include your wireframe(s) and link to wireframe
+> [wireframe link](https://excalidraw.com/#json=C3wpF-K3SZZF8fpWzreed,3Y4ew_aOYkwsSmFNas2OGA)
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![wireframe](./asserts/wire.svg)
